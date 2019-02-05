@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Mary's Favorites
+### Website Summary
+The purpose of the Mary's Favorites Website is to showcase the things Mary likes. There's lists of movies, music, and books, as well as some background information on who she is. There's also an interactive page that allows the user to enter their favorites for Mary to see.
+### Website Structure
+### Individual Page Descriptions
+### Website URLs
 
 You can use the [editor on GitHub](https://github.com/MaryKM13/CEN1400_MobileApp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
