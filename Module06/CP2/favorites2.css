@@ -1,0 +1,28 @@
+/* sets the main text font, style, and color */
+.body {  text-align: center;
+          color: #515151;
+        font-family:"Trebuchet MS", Helvetica, sans-serif;
+
+        background-color: #f0ffff;*/}
+/* sets the background color for the entire website*/
+.ui-page, .ui-content {  background:#f0ffff;}
+/* sets the header apart from the rest of the h1 tags and allows the text to be resized */
+#headi  { font-size: 2em;
+          text-shadow: 1px 1px black;
+        /*background-color: #f0ffff;*/}
+#headt { font-size: 1.5em;
+          padding: 10px 24px;}
+/* sets the h1 font, style, and color */
+h1, h3 {  text-align: center;
+/*          font-family: Impact, Charcoal, sans-serif;*/
+          transform: scaleX(1.25);}
+
+/* sets the image as centered */
+#hp {   display: block;
+        margin-left: auto;
+        margin-right: auto;}
+/* adds style to the footer */
+/*#favs { background-color: #E68A00; /* Orangey */
+/*        font-size: 1.25em;
+        font-weight: bold;
+        padding: 10px 24px; }*/
