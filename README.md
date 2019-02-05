@@ -1,8 +1,15 @@
 ## Mary's Favorites
 ### Website Summary
-The purpose of the Mary's Favorites Website is to showcase the things Mary likes. There's lists of movies, music, and books, as well as some background information on who she is. There's also an interactive page that allows the user to enter their favorites for Mary to see.
+The purpose of the **Mary's Favorites** website is to showcase the things Mary likes. There's lists of movies, music, and books, as well as some background information on who she is. There's also an interactive page that allows the user to enter their own favorites for Mary to see.
 ### Website Structure
-### Individual Page Descriptions
+The website structure is very straightforward. The homepage has a list of links to direct the site visitor to the Who and the What of the website, as well as links to Mary's favorite movies, favorite music, favorite books, and a form for the visitor to input their favorites.
+### Webpage Descriptions
+**Continuous**
+The website was styled using jQuery Mobile and ThemeRoller.
+Each page but the homepage has a navigation button in the upper right corner. Clicking that button will cause a navigation panel to slide out, with links to each page. In the upper left corner of each page but the homepage is a back button that lets the user return to the previous page.
+**Homepage**
+The homepage contains navigation links to each of the other pages.
+
 ### Website URLs
 
 You can use the [editor on GitHub](https://github.com/MaryKM13/CEN1400_MobileApp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
