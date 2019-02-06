@@ -2,7 +2,7 @@
 ### Website Summary
 The purpose of the **Mary's Favorites** website is to showcase the things Mary likes. There's lists of movies, music, and books, as well as some background information on who she is. There's also an interactive page that allows the user to enter their own favorites for Mary to see.
 ### Website Structure
-The website structure is very straightforward. The homepage has a list of links to direct the site visitor to the Who and the What of the website, as well as links to Mary's favorite movies, favorite music, favorite books, and a form for the visitor to input their favorites.
+The website structure is very straightforward. The homepage has a list of links to direct the site visitor to the Who and the What pages of the website, as well as links to pages of Mary's favorite movies, favorite music, favorite books, and a form for the visitor to input their favorites.
 ### Webpage Descriptions
 **Throughout**
 
