@@ -43,7 +43,8 @@ This page contains a textarea for the user to enter any feedback, as well as a f
 There are two different versions of the website. One of the assignments was to develop a brand new color scheme other than what was originally proposed. Since I like the original color scheme (tweaked a bit with ThemeRoller), I've included that as well.
 
 [**Brand New Color Scheme**](http://sotd.us/marymickelson/CEN1400_Mobile_Application_Development/Module06/CP1/)
+http://sotd.us/marymickelson/CEN1400_Mobile_Application_Development/Module06/CP1/
 
 [**Original Color Scheme**](http://sotd.us/marymickelson/CEN1400_Mobile_Application_Development/Module06/CP2/)
-
+http://sotd.us/marymickelson/CEN1400_Mobile_Application_Development/Module06/CP2/
 _**&copy; 2019 Mary Mickelson**_
